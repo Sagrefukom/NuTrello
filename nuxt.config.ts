@@ -19,5 +19,5 @@ export default defineNuxtConfig({
 	fonts: {
 		families: [{ name: "Noto Sans", provider: "google" }],
 	},
-	css: ["~/assets/scss/global.css"],
+	css: ["~/assets/css/global.css"],
 });
