@@ -1,0 +1,113 @@
+{
+	"name": "task-board",
+	"columns": [
+		{
+			"id": "74c49bb3-f5c4-478d-b87a-ca401c5cbe51",
+			"name": "To Do",
+			"tasks": [
+				{
+					"id": "0335e09e-c472-4d25-a2a4-2673510c379b",
+					"name": "task #1",
+					"description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non sit magni doloribus sunt placeat, voluptas iusto eaque vitae reiciendis, itaque facere impedit amet quod mollitia tempore aspernatur, provident aliquid eveniet!",
+					"priority": "high",
+					"responsible": "Kamren",
+					"participants": [
+						{
+							"id": "2",
+							"name": "Clementine Bauch",
+							"username": "Samantha",
+							"email": "Nathan@yesenia.net"
+						}
+					]
+				},
+				{
+					"id": "8a928845-26d0-4462-8ae6-bb7a4b7dc294",
+					"name": "task #2",
+					"description": "",
+					"priority": "medium",
+					"responsible": "Antonette",
+					"participants": []
+				}
+			]
+		},
+		{
+			"id": "46aa0edc-f299-4350-8828-c0017a06a4d5",
+			"name": "In Progress",
+			"tasks": [
+				{
+					"id": "69a1120e-f5e5-437d-9319-f410610a49c8",
+					"name": "task #3",
+					"description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non sit magni doloribus sunt placeat, voluptas iusto eaque vitae reiciendis, itaque facere impedit amet quod mollitia tempore aspernatur, provident aliquid eveniet!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non sit magni doloribus sunt placeat, voluptas iusto eaque vitae reiciendis, itaque facere impedit amet quod mollitia tempore aspernatur, provident aliquid eveniet!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non sit magni doloribus sunt placeat, voluptas iusto eaque vitae reiciendis, itaque facere impedit amet quod mollitia tempore aspernatur, provident aliquid eveniet!",
+					"priority": "low",
+					"responsible": "Antonette",
+					"participants": [
+						{
+							"id": "1",
+							"name": "Ervin Howell",
+							"username": "Antonette",
+							"email": "Shanna@melissa.tv"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "f1953dbe-b295-48bf-af0c-312d1eaa1c04",
+			"name": "Code Review",
+			"tasks": [
+				{
+					"id": "6e7ed610-e788-4640-a55c-c96088f4d0d6",
+					"name": "task #4",
+					"description": "",
+					"priority": "low",
+					"responsible": "Antonette",
+					"participants": []
+				},
+				{
+					"id": "e3ea69ba-9a4f-4164-af74-78b3cfcf8630",
+					"name": "task #5",
+					"description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non sit magni doloribus sunt placeat, voluptas iusto eaque vitae reiciendis, itaque facere impedit amet quod mollitia tempore aspernatur, provident aliquid eveniet!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non sit magni doloribus sunt placeat, voluptas iusto eaque vitae reiciendis, itaque facere impedit amet quod mollitia tempore aspernatur, provident aliquid eveniet!",
+					"priority": "medium",
+					"responsible": "Antonette",
+					"participants": [
+						{
+							"id": "4",
+							"name": "Chelsey Dietrich",
+							"username": "Kamren",
+							"email": "Lucio_Hettinger@annie.ca"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "2bd7f7c7-3036-4e63-8b48-aae219b4ba32",
+			"name": "Done",
+			"tasks": [
+				{
+					"id": "f3deb325-761e-4100-baee-a9b5ec929865",
+					"name": "task #6",
+					"description": "",
+					"priority": "medium",
+					"responsible": "Samantha",
+					"participants": []
+				},
+				{
+					"id": "f4af6e5a-e705-4caf-aa16-e34533da7624",
+					"name": "task #7",
+					"description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non sit magni doloribus sunt placeat, voluptas iusto eaque vitae reiciendis, itaque facere impedit amet quod mollitia tempore aspernatur, provident aliquid eveniet!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non sit magni doloribus sunt placeat, voluptas iusto eaque vitae reiciendis, itaque facere impedit amet quod mollitia tempore aspernatur, provident aliquid eveniet!",
+					"priority": "high",
+					"responsible": "Bret",
+					"participants": [
+						{
+							"id": "4",
+							"name": "Chelsey Dietrich",
+							"username": "Kamren",
+							"email": "Lucio_Hettinger@annie.ca"
+						}
+					]
+				}
+			]
+		}
+	]
+}
